@@ -67,9 +67,12 @@ Full-stack **Software Development Internship** to apply good practices and expan
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMarianiG&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
+<!--
+## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LucasMarianiG&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
 </p>
+-->
 
 ---
 
