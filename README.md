@@ -30,6 +30,8 @@ Full-stack **Software Development Internship** to apply good practices and expan
   <img height="28" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
   <img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   <img height="28" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
   <img height="28" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img height="28" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
   <img height="28" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
@@ -39,6 +41,7 @@ Full-stack **Software Development Internship** to apply good practices and expan
   <img height="28" src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white"/>
   <img height="28" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
 </p>
+
 
 ---
 
