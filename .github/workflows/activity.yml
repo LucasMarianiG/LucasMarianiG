@@ -1,8 +1,13 @@
 name: Update Recent Activity
+
 on:
   schedule:
-    - cron: '0 */6 * * *'   # a cada 6h
-  workflow_dispatch:
+    - cron: '0 */6 * * *'   # a cada 6 horas
+  workflow_dispatch:        # botão para rodar manualmente
+  push:
+    branches: [ main ]      # se quiser rodar em push também
+    paths-ignore:
+      - 'README.md'         # não roda se mudar só o README
 
 permissions:
   contents: write
@@ -18,9 +23,3 @@ jobs:
           COMMIT_MSG: "chore: atualizar atividades no README [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-on:
-  push:
-    branches: [ main ]
-    paths-ignore: [ 'README.md', 'docs/**' ]
-  pull_request:
-    paths-ignore: [ 'README.md', 'docs/**' ]
