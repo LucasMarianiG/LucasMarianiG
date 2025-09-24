@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
-          GH_USERNAME: maedgomes
+          GH_USERNAME: LucasMarianiG
           COMMIT_MSG: "chore: atualizar atividades no README [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
