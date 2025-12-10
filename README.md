@@ -81,8 +81,8 @@ Full-stack **Software Development Internship** to apply good practices and expan
 
 ## 🔔 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//LuizHelio-Fim/TestMerge/pull/2) in [LuizHelio-Fim/TestMerge](https://github.com//LuizHelio-Fim/TestMerge)
-2. 💪 Opened PR [#1](https://github.com//LuizHelio-Fim/TestMerge/pull/1) in [LuizHelio-Fim/TestMerge](https://github.com//LuizHelio-Fim/TestMerge)
+1. ❌ Merged PR [#2](https://github.com//gffiorot/TrabalhoDW/pull/2) in [gffiorot/TrabalhoDW](https://github.com//gffiorot/TrabalhoDW)
+2. 💪 Opened PR [#2](https://github.com//gffiorot/TrabalhoDW/pull/2) in [gffiorot/TrabalhoDW](https://github.com//gffiorot/TrabalhoDW)
 <!--END_SECTION:activity-->
 
 ---
